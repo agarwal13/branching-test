@@ -1,2 +1,2 @@
 # branching-test
-Understands the branching strategy
+Understanding the branching strategy
