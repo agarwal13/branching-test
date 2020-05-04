@@ -1,4 +1,4 @@
 # branching-test
-Understanding the branching strategy
-Now, this is after second feature branch is created
+Understands the branching strategy
+Now, this is after the second feature branch is created
 
